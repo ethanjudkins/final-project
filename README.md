@@ -45,4 +45,4 @@ The most enjoyable aspect of the game creation were the small details we added a
 
 
 
-*note: the background music file was too large to add to github, so it was submitted to canvas instead. You can hear it during the video at parts*
+*note: the background music file was too large to add to github, but you can hear it during the demonstration video at parts*
